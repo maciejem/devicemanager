@@ -1,0 +1,2 @@
+app:
+  statusExpirationTime: 300000 #5 minuttes = 5*60*1000ms
